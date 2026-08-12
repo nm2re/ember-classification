@@ -1,0 +1,14 @@
+# Virtual Environment
+
+.venv/
+
+# Large data files
+data/raw/
+data/processed/
+data/preprocessed/
+
+# Model files
+models/
+
+# Results and outputs
+results/
