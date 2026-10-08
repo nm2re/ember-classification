@@ -1,7 +1,5 @@
 # Ensemble Learning for Windows PE Malware Detection (EMBER)
 
-MSc AI/ML in Cybersecurity (MSCCYB1JAN25I), National College of Ireland.
-
 This project asks one question: does an ensemble of LightGBM, Random Forest, XGBoost and a neural network detect Windows PE malware better than any single classifier? It is tested on the EMBER 2018 benchmark, with simple baselines for comparison, a temporal drift experiment, and SHAP interpretation.
 
 ## Headline results
